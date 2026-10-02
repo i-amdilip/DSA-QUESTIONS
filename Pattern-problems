@@ -71,4 +71,39 @@ Class Pattern{
 }
 
 
-//
+/////
+QUESTION 3 , 
+TO PRINT 
+1
+0 1
+1 0 1
+0 1 0 1
+
+
+SOLUTION 3 : 
+import java.util.*;
+Class Pattern{
+        Scanner scn = new Scanner(System.in);
+        int num = scn.nextInt();
+        int a;
+
+        for(int i = 1; i <= num; i++) {
+            
+            if(i % 2 == 0) {
+                a = 0;
+            }
+            else {
+                a = 1;
+            }
+
+            for(int j = 1; j <= i; j++) {
+                System.out.print(a + " ");
+
+                a = 1 - a;   // toggle 0 ↔ 1
+            }
+
+            System.out.println();
+        }
+ }
+}
+////

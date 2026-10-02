@@ -24,3 +24,15 @@ class Patterns{
 	}
 }
 
+
+//OUTPUT OF THIS CODE 
+input , num = 5
+
+*****
+*   *
+*   *
+*   *
+*****
+
+
+//

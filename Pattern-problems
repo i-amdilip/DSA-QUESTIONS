@@ -106,4 +106,43 @@ Class Pattern{
         }
  }
 }
+
+
+
+QUESTION 4 , 
+TO PRINT 
+   1
+  121
+ 12321
+1234321 
+
+
+SOLUTION : 
+
+import java.util.*;
+class Pattern{
+ public static void main(String[]args){
+   Scanner scn = new Scanner(System.in);
+   int n = scn.nextInt();
+   int sp = n;
+   for(int i = 1 ; i<=n ; i++){
+      for(int j = sp-1 ; j>0 ; j--){
+         System.out.print(j);
+	  }
+      for(int j = 1 ; j<=n ; j++){
+         System.out.print(j);
+	  }
+      for(int j = i-1 ; j>0 ; j--){
+         System.out.print(j);
+	  }
+      System.out.println();
+      sp--;
+   }
+ }
+}
+
+
+
+
+
 ////

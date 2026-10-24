@@ -5,15 +5,27 @@ This repository contains my LeetCode solutions, covering arrays, mathematics, li
 
 ------------------------------------------------
 Two Sum — 1
+
 Divide Two Integers — 29
+
 Concatenate Array With Reverse — 2562
+
 Best Time to Buy and Sell Stock — 121
+
 Three Divisors — 1952
+
 Rotate Image — 48
+
 Count Digit Appearances — Need to verify
+
 Reorder List — 143
+
 Plus One — 66
+
 Minimum Queen Moves to Reach Target — Need to verify
+
 Factorial Trailing Zeroes — 172
+
 Palindrome Number — 9
+
 Add Digits — 258

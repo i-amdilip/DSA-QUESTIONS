@@ -1,0 +1,19 @@
+Q 1 . MATRIX MULTIPLICATION 
+
+SOLUTION : 
+class Solution {
+    public int[][] multiplyMatrices(int[][] matrixA, int[][] matrixB) {
+      if(matrixA[0].length!=matrixB.length){
+        return null;
+      }
+      int [][]matrixC=new int[matrixA.length][matrixB[0].length];
+      for(int i=0;i<matrixA.length;i++){
+        for(int j=0;j<matrixB[0].length;j++){
+          for(int k=0;k<matrixA[0].length;k++){
+            matrixC[i][j]+=matrixA[i][k]*matrixB[k][j];
+          }
+        }
+      }
+      return matrixC;
+    }
+}

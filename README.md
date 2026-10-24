@@ -1,2 +1,19 @@
-# DSA-QUESTIONS
-DSA Questions &amp; Solutions — A collection of Data Structures and Algorithms problems with solutions in Java. Includes beginner-friendly questions, logic-building exercises, and topic-wise practice to improve problem-solving and coding skills.
+#I’m practicing Data Structures and Algorithms (DSA) using Java and solving problems on LeetCode to improve my problem-solving and logical thinking skills.
+🔗 LeetCode Profile: https://leetcode.com/u/iamdilip_/
+This repository contains my LeetCode solutions, covering arrays, mathematics, linked lists, and other DSA concepts.
+
+
+------------------------------------------------
+Two Sum — 1
+Divide Two Integers — 29
+Concatenate Array With Reverse — 2562
+Best Time to Buy and Sell Stock — 121
+Three Divisors — 1952
+Rotate Image — 48
+Count Digit Appearances — Need to verify
+Reorder List — 143
+Plus One — 66
+Minimum Queen Moves to Reach Target — Need to verify
+Factorial Trailing Zeroes — 172
+Palindrome Number — 9
+Add Digits — 258

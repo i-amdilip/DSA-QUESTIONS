@@ -2,11 +2,11 @@
 
 I’m practicing Data Structures and Algorithms (DSA) using Java and solving problems on LeetCode to improve my problem-solving and logical thinking skills.
 
-🔗 **LeetCode Profile:** https://leetcode.com/u/iamdilip_/
+🔗 **LeetCode Profile:** [https://leetcode.com/u/iamdilip_/](https://leetcode.com/u/iamdilip_/)
 
-This repository contains my LeetCode solutions, covering arrays, mathematics, binary search, matrices, linked lists, and other DSA concepts.
+This repository contains my LeetCode solutions, covering arrays, mathematics, binary search, matrices, strings, linked lists, and other DSA concepts.
 
-## 📚 Problems Solved (48)
+## 📚 Problems Solved (55)
 
 1. Majority Element — 169
 2. Contains Duplicate — 217
@@ -56,6 +56,13 @@ This repository contains my LeetCode solutions, covering arrays, mathematics, bi
 46. Lucky Numbers in a Matrix — 1380
 47. Find First and Last Position of Element in Sorted Array — 34
 48. Count Elements With Strictly Smaller and Greater Elements — 2148
+49. Removing Stars From a String — 2390
+50. Count Negative Numbers in a Sorted Matrix — 1351
+51. Transform Array by Parity — 3467
+52. Defanging an IP Address — 1108
+53. Rearrange Array Elements by Sign — 2149
+54. Length of Last Word — 58
+55. Sort Colors — 75
 
 ---
 
